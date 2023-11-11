@@ -107,7 +107,7 @@ _this is a italic text_
 
 - [x] item 1
 - [x] task 2
-- [] task 3
+- [ ] task 3
 - [x] task 4
 
 <!-- ------- -->
